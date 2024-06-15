@@ -33,6 +33,10 @@ body {
 	width: 100%;
 }
 
+#dark-overlay.transparent {
+	background: none;
+}
+
 .container {
 	display: none;
 }
